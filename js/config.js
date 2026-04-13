@@ -7,7 +7,7 @@ const CONFIG = {
     empresa: {
         nome1: "REAL",
         nome2: "PISOS", // Aparece em destaque (com a cor primária)
-        whatsapp: "5511939513549" // Apenas números (mantenha ou altere logo que tiver o link)
+        whatsapp: "553194699586" // Apenas números (mantenha ou altere logo que tiver o link)
     },
 
     // 2. OPÇÕES DE PISOS E PREÇOS
