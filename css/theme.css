@@ -1,11 +1,11 @@
 /* Cores da Marca e Imagem de Fundo */
 :root {
-    /* Cores Principais */
-    --primary: #CFA257;
-    --secondary: #000000;
-    --accent: #25D366;
+    /* Cores Principais (Gloow Pisos Palette) */
+    --primary: #A67C52; /* Wood Gold */
+    --secondary: #1C1C1C; /* Premium Black */
+    --accent: #2E7D32; /* Forest Green (Logo Leaves) */
     --white: #ffffff;
 
     /* Imagem de Fundo da Seção Hero */
-    --bg-hero: url('../assets/fundo.jpg');
+    --bg-hero: url('../assets/fundo_gloow.png');
 }
