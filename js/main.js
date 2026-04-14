@@ -20,7 +20,8 @@ function inicializarDadosEstruturais() {
     // 1.2 Whatsapp Header Link
     const headerZapBtn = document.getElementById('headerZapBtn');
     if(headerZapBtn) {
-        headerZapBtn.href = `https://wa.me/${CONFIG.empresa.whatsapp}`;
+        const textoHeader = "Olá! Fiz o orçamento manualmente na máquina de orçamento e tenho interesse no piso!";
+        headerZapBtn.href = `https://wa.me/${CONFIG.empresa.whatsapp}?text=${encodeURIComponent(textoHeader)}`;
     }
 
     // 1.3 Popular Options de Piso Atual
