@@ -5,7 +5,7 @@
 const CONFIG = {
     // 1. DADOS DA EMPRESA E ATENDIMENTO
     empresa: {
-        nome1: "GLOOW",
+        nome1: "GLOW",
         nome2: "PISOS", // Aparece em destaque (com a cor primária)
         whatsapp: "5511915853963" // Apenas números
     },
